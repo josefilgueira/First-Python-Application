@@ -43,7 +43,7 @@ It represents my first steps into Python programming and was part of the foundat
   - `secret_num(x, y, player)`: securely asks the user for a hidden number within a range  
 
 - **Readme.txt**  
-  Original file included in the academic submission.
+  Original file included in the academic submission where you can see all details related to the actual game.
 
 ---
 
