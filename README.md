@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+
+
+
 # 🐍 First Python Application  
 This repository contains the very first Python program I developed during my Master’s degree.  
 It is a beginner-friendly exercise focused on working with user input, validation, functions, and control flow.
